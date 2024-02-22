@@ -26,8 +26,7 @@ const techStack = {
       databases: ["MySQL", "PostgreSQL"],
       workflow: ["Docker", "Docker Compose", "Linux", "GitHub"],
       management: ["Agile", "Scrum", "Notion", "YouTrack", "Trello"]
-   },
-   currentOccupation: ["Working as a freelancer and student in Platzi Master Cohort 8."],
+   }
 };
 ```
 
